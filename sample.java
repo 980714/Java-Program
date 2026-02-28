@@ -8,6 +8,8 @@ public class Main {
         String name = sc.nextLine();
 
         System.out.println("Hello " + name + "!");
+        System.out.println("wel-come to java program");
+
 
         sc.close();
     }
